@@ -1,3 +1,4 @@
+```
 Title: Optimizing Long-term Variability of Active Galactic Nuclei Light Curves. I. A Case Study 
        with ZTF Observations in the EGS Field
 Authors: Lin J., Zheng Z.-Y., Ma B., Long L., Xie Y., Lin P., Lin R., Ji X.
@@ -125,3 +126,4 @@ Note (1): from M. Davis et al. (2007) [2007ApJ...660L...1D].
 Note (2): from E. W. Flesch (2023) [2023OJAp....6E..49F].
 Note (3): from S. Kozlowski (2017) [2017ApJS..228....9K].
 --------------------------------------------------------------------------------
+```
